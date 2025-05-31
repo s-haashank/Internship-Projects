@@ -1,0 +1,3 @@
+[*] Scan Results:
+Port       Service         Status    
+[91m21         ftp             Open[0m
