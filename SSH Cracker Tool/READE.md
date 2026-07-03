@@ -1,4 +1,4 @@
-# SSH Cracker Tool (For Educational Use Only)
+# SSH Cracker Tool
 
 This is an educational tool to demonstrate SSH brute-force attacks. It is intended **only** for penetration testing in controlled environments or with **explicit permission**.
 
