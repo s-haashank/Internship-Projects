@@ -1,4 +1,4 @@
-# PDF Protection Tool 🔐
+# PDF Protection Tool 
 
 ## Description
 This tool allows users to password-protect PDF files using strong encryption.
