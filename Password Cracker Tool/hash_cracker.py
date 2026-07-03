@@ -4,7 +4,7 @@ import string
 from concurrent.futures import ThreadPoolExecutor
 import argparse
 
-# Supported hash algorithms
+
 hash_names = [
     'md5',
     'sha1',
