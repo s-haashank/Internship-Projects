@@ -1,4 +1,4 @@
-# PortScannerTool 🔍
+# PortScannerTool 
 
 A fast and simple multithreaded port scanner written in Python. It scans a given IP address or hostname for open ports and attempts to grab service banners.
 
