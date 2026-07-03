@@ -1,4 +1,4 @@
-# Subdomain Enumeration Tool 🔍
+# Subdomain Enumeration Tool 
 
 ## Description
 This tool helps in finding valid subdomains for any domain by brute-forcing a wordlist.
