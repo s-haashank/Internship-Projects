@@ -1,4 +1,4 @@
-# 🕳️ Backdoor Reverse Shell (Educational Use Only)
+# 🕳️ Backdoor Reverse Shell 
 
 This project demonstrates a basic reverse shell using Python's socket and subprocess modules.
 
