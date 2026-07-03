@@ -1,4 +1,4 @@
-# Smart Network Scanner
+ Smart Network Scanner
 
 A simple Python-based tool that scans your local network for connected devices using ARP requests.
 
