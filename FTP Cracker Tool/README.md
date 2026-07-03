@@ -1,4 +1,4 @@
-# 🔐 FTP Cracker Tool (Python)
+# 🔐 FTP Cracker Tool
 
 ## Description
 
