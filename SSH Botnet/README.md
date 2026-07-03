@@ -5,7 +5,7 @@ This project is an educational tool for understanding how botnets can be managed
 - Send remote commands to multiple systems.
 - Manage sessions and automate actions.
 
-## 📁 Project Structure
+##  Project Structure
 - `botnet.py` - Main script to run the botnet controller
 - `hosts.txt` - List of target SSH-enabled IPs
 - `wordlist.txt` - Passwords used to connect to SSH hosts
