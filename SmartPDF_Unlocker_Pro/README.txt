@@ -1,9 +1,9 @@
 SmartPDF Unlocker Pro
-======================
+
 
 A powerful Python-based command-line tool that unlocks password-protected PDF files using a wordlist attack. Designed as part of an internship project, this tool demonstrates real-world cybersecurity concepts and PDF encryption handling using the `pikepdf` library.
 
---------------------
+
 HOW TO SET UP
 --------------------
 1. Make sure Python 3.x is installed on your system.
