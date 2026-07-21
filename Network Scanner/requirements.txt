@@ -1,3 +1,3 @@
-scapy
-colorama      # For colored terminal output (optional)
+scap
+colorama      # For colored terminal output 
 tk            # For simple GUI using Tkinter (optional)
