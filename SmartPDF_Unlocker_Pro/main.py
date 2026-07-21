@@ -1,6 +1,6 @@
 import pikepdf
 
-# PDF numbers to check
+# PDF numbers for check
 pdf_numbers = [1, 2, 3]
 
 # Wordlist
