@@ -1,6 +1,6 @@
 import socket
 import time
-
+//code
 while True:
     try:
         s = socket.socket()
