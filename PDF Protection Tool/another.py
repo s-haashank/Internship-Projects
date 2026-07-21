@@ -15,7 +15,7 @@ def protect_pdf(input_pdf, output_pdf, password):
         print(f"✅ Password-protected PDF saved as {output_pdf}")
 
     except Exception as e:
-        print(f"❌ Error: {e}")
+        print(f" Error: {e}")
 
 def main():
     if len(sys.argv) != 4:
