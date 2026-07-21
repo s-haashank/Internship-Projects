@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env 
 """
 SSH Cracker Tool
 Author: [Your Name]
