@@ -2,3 +2,4 @@ admin
 user
 test
 ftp
+ssh
