@@ -3,7 +3,7 @@ import sys
 import argparse
 import concurrent.futures
 
-# Color codes
+# 
 RED = '\033[91m'
 GREEN = '\033[92m'
 RESET = '\033[0m'
