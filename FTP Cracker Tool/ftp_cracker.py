@@ -5,7 +5,7 @@ from time import sleep
 from colorama import init, Fore
 import argparse
 import itertools
-import string
+import string #code
 
 init(autoreset=True)
 
