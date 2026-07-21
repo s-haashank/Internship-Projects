@@ -1,7 +1,7 @@
 import os
 import PyPDF2
 
-# File paths
+# File
 sample_pdf_path = "samples/sample.pdf"
 wordlist_path = "wordlist.txt"
 unlocked_pdf_path = "unlocked/unlocked_sample.pdf"
