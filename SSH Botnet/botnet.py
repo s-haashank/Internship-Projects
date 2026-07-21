@@ -55,7 +55,7 @@ def add_client():
         cprint(f"[+] {host} added successfully.", "green")
     else:
         cprint("[!] Failed to add bot.", "red")
-
+#condition
 while True:
     display_menu()
     choice = input(">> ")
