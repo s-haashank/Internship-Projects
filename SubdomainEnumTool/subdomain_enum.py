@@ -1,7 +1,7 @@
 import requests
 import threading
 
-# Ask user to enter the domain
+# enter the domain
 domain = input("Enter the target domain (e.g., youtube.com): ")
 
 # Read subdomains from wordlist file
